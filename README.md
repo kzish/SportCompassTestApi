@@ -1,9 +1,9 @@
 # SportCompassTestApi
 SportCompass Test Api
 
-intall mysql latest version<br>
-install dotnet core v2.2<br>
-install visual studio 2019<br>
+1) intall mysql latest version<br>
+2) install dotnet core v2.2<br>
+3) install visual studio 2019<br>
 
 
 run mysql script "sportcompass.sql" to install the database<br>
