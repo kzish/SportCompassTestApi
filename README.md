@@ -6,6 +6,7 @@ install dotnet core v2.2
 install visual studio 2019
 
 
+
 run mysql script "sportcompass.sql"
 
 1) open project in visual studio 2019
